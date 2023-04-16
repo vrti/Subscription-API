@@ -1,6 +1,6 @@
 ## Subscription-API
 Spring Boot API Project containing an API end point '/subscription'.
-Appropriate form validations are added such that the user can submit a request only if all field values are correctly provided
+Appropriate validations are applied to the request payload.
 
 Run the project by using the Sprint Boot's embedded server.
 
